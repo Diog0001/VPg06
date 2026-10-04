@@ -1,0 +1,7 @@
+haystack-ai
+pinecone-haystack
+pinecone
+openai
+python-dotenv
+pyTelegramBotAPI
+requests

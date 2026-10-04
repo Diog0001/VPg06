@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.bot.lock
+
+bot_run.log
+bot_run.err.log
+dedup_test.log
